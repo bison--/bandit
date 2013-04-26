@@ -1,3 +1,5 @@
+# CANT remember, where I get this class, but it REALLY looks like:
+################## http://www.pygame.org/wiki/2DVectorClass ##################
 ########################################################################
 import operator
 import math
